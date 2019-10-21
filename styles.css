@@ -22,10 +22,18 @@ color: #ffffff;
 
 }
 .wrapper {
-	width: 700px;
+	width: 1050px;
 	height: auto;
 	margin: 50px auto;
 }
+
+
+.title{
+text-align: justify;
+
+
+}
+
 
  .header{
 
@@ -35,11 +43,24 @@ color: #ffffff;
 	float: right;
 }
 
+.headerHistory{
+	width: 350px;
+	height: 700px;
+margin: 50px auto;
+	background-color:#ffffff;
+	border: 5px solid #3897f0;
+		padding: 10px;
+		margin-left: 10px;
+		text-align: justify;
+
+float: right;
+}
 .headerPhone{
 
 	width: 200px;
 	height: 500px;
-	margin: 65px auto;
+	margin: 80px auto;
+		margin-left: 80px
 	background-color: #FDFBFB;
 	float: left;
 
